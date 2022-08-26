@@ -65,6 +65,13 @@
 
         </com.google.android.material.textfield.TextInputLayout>
 
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Entrar"
+            app:icon="@drawable/ic_baseline_games"
+            style="@style/Widget.MaterialComponents.Button.TextButton.Icon" />
+
 
     </LinearLayout>
 
